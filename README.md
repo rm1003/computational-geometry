@@ -1,2 +1,2 @@
 # GeoGuedes
-Repositório dos três trabalhos de GeoGuedes
+Repositório dos três trabalhos da materia de Geometria Computacional
